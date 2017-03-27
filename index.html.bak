@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+ <head>
+ <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script src="js/jquery-3.1.0.js"></script>
+<link href="css/首页/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<!-- <link href="css/首页/bootstrap-responsive.css" rel="stylesheet"> -->
+<link href="css/首页/index.css" rel="stylesheet" type="text/css"/>
+
+<script src="js/bootstrap.js"></script>
+<script src="js/index.js"></script>
+  <title>响应式</title>
+ </head>
+ <body>
+	 <div class=" contain">
+		 <div class=" row banner">
+			<a  class="col-xs-12 col-sm-12 col-md-12" href="#"><img src="img/首页/banner-1.jpg"/></a>
+		 </div>
+		 <div class="">
+			 <ul class="row">
+						<li class="col-xs-3 col-sm-3 col-md-3"><a class="thumbnail" href="#"><img src="img/首页/items-1.png"/><p class="text-center">人人赚</p></a></li>
+						<li class="col-xs-3 col-sm-3 col-md-3"><a class="thumbnail" href="#"><img src="img/首页/items-2.png"/><p class="text-center">掌柜吧</p></a></li>
+						<li class="col-xs-3 col-sm-3 col-md-3"><a class="thumbnail"  href="#"><img src="img/首页/items-3.png"/><p class="text-center">铜钱宝</p></a></li>
+						<li class="col-xs-3 col-sm-3 col-md-3"><a class="thumbnail"  href="#"><img src="img/首页/items-4.png"/><p class="text-center">掌薪计划</p></a></li>
+						<li class="col-xs-3 col-sm-3 col-md-3"><a class="thumbnail" href="#"><img src="img/首页/items-5.png"/><p class="text-center">积分商城</p></a></li>
+						<li class="col-xs-3 col-sm-3 col-md-3"><a class="thumbnail" href="#"><img src="img/首页/items-6.png"/><p class="text-center">送红包</p></a></li>
+						<li class="col-xs-3 col-sm-3 col-md-3"><a class="thumbnail" href="#"><img src="img/首页/items-7.png"/><p class="text-center">会员特权</p></a></li>
+						<li class="col-xs-3 col-sm-3 col-md-3"><a class="thumbnail" href="#"><img src="img/首页/items-8.png"/><p class="text-center">安全保障</p></a></li>
+					 </ul>
+				
+		 </div>
+		 <div class="row">
+			  <div class="col-xs-12 col-sm-12 col-md-12 data">
+				   <div class="xinke"><img src="img/首页/xinke.png"/></div>
+				    <div class="col-xs-5 col-sm-5 col-md-5 col-xs-offset-4  col-sm-offset-4  col-md-offset-4 data-news">
+					    <div><p class="text-center text-nianlilv">年利率</p><p class="text-center text-lilv">12.88%</p></div>
+					期限14天  已投87%
+					</div>
+					
+				   <a class=" btn btn-info btn-color " role="button">立即投资</a>
+				  
+			  </div>
+			  <p class="text-center text-news">上市公司中来股市入股</p>
+			  <ul class="row">
+			      <li class="col-xs-3 col-sm-3 col-md-3"><img src="img/icon/铜钱宝.png"/>首页</li>
+				  <li class="col-xs-3 col-sm-3 col-md-3"><img src="img/icon/理财.png"/>理财</li>
+				  <li class="col-xs-3 col-sm-3 col-md-3"><img src="img/icon/发现(1).png"/>发现</li>
+				  <li class="col-xs-3 col-sm-3 col-md-3"><img src="img/icon/钱袋.png"/>资产</li>
+			  </ul>
+		 </div>
+		 
+         <footer>
+	     </footer>
+	</div>
+ </body>
+</html>
+
+
+
+
+
+
+
+
+
+
